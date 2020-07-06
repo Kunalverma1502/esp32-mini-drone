@@ -1,2 +1,2 @@
 # esp32-mini-drone
-coreless esp32 controlled drone
+Project using the ESP32 and MPU6050 to control a quadcopter. Done with arduino for esp32 ide.
