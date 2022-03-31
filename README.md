@@ -5,6 +5,5 @@ Project using the ESP32 and MPU6050 to control a quadcopter. Done with arduino f
 
 
 <p align="center">
- # <img width="460" height="300" src="http://www.fillmurray.com/460/300">
   ![Exploded view](IMAGES/CAD.GIF)
 </p>
