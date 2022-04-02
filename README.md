@@ -1,4 +1,4 @@
-# ESP-32 Drone
+# ESP-32 Drone 🛸
 ESP-32 Drone is an open-source light weight and compact drone with extended IO's for adding multiple sensors.
 
 # Hardware ⚙️
