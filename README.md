@@ -14,6 +14,6 @@ Not recommended for general use yet (mechanical and electrical revisions are pla
 <p align="left">
   <img src="https://github.com/Kunalverma1502/esp32-mini-drone/blob/master/IMAGES/Drone Rotate.gif" width="480" height="480" />
 </p>
-<p align="left">
+<p align="right">
   <img src="https://github.com/Kunalverma1502/esp32-mini-drone/blob/master/IMAGES/Motor Directions.gif" width="480" height="480" />
 </p>
