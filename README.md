@@ -11,7 +11,7 @@ Not recommended for general use yet (mechanical and electrical revisions are pla
 
 
 #### 3D CAD
-<p img align="left" src="https://github.com/Kunalverma1502/esp32-mini-drone/blob/master/IMAGES/Drone Rotate.gif" width="480" height="480">
+<img align="left" src="https://github.com/Kunalverma1502/esp32-mini-drone/blob/master/IMAGES/Drone Rotate.gif" width="480" height="480"/>
 
 Features:
 
