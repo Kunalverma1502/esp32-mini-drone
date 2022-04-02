@@ -13,7 +13,7 @@ Not recommended for general use yet (mechanical and electrical revisions are pla
 #### 3D CAD
   <img align="left" src="https://github.com/Kunalverma1502/esp32-mini-drone/blob/master/IMAGES/Drone Rotate.gif" width="480" height="480" />
   
-  Features:
+##Features:
  - 240x240 round LCD, protected by 39.5mm watch glass on rotor
  - Low cost BLDC gimbal motor, with a hollow shaft for mechanically & electrically connecting the LCD
  - Powered by ESP32-PICO-V3-02 (Lilygo TMicro32 Plus module)
