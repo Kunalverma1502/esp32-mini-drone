@@ -1,5 +1,5 @@
 # ESP-32 Drone
-Project using the ESP32 and MPU6050 to control a quadcopter. Done with arduino for esp32 ide.
+ESP-32 Drone is an open-source light weight and compact drone with extended IO's for adding multiple sensors.
 
 
 <p align="center">
