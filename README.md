@@ -10,10 +10,10 @@ Requires advanced soldering experience to build - reflow and/or small-pitch surf
 Not recommended for general use yet (mechanical and electrical revisions are planned).
 
 
-#### 3D CAD
+### 3D CAD
 <img align="left" src="https://github.com/Kunalverma1502/esp32-mini-drone/blob/master/IMAGES/Drone Rotate.gif" width="480" height="480"/>
 
-# Heading
+## Assembled Cad Model
 
  - 240x240 round LCD, protected by 39.5mm watch glass on rotor
  - Low cost BLDC gimbal motor, with a hollow shaft for mechanically & electrically connecting the LCD
