@@ -20,7 +20,10 @@ Features:
  - Powered by ESP32-PICO-V3-02 (Lilygo TMicro32 Plus module)
  - PCB flexure and strain gauges used for press detection (haptic feedback provided via the motor)
  - 8 side-firing RGB LEDs (SK6812-SIDE-A) illuminate ring around the knob
-</p>
+ <br/>
+  <br/>
+   <br/>
+    <br/>
 
  
 <p align="right">
